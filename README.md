@@ -42,6 +42,12 @@ country,
 Sale_date;
 
 ## Key Visualizations and Insights 
+### Chart 1: Daily Profit vs Sold Units
+![UnitsSold vs Profit](UnitsSold vs Avg_Profit_Per_Unit.png)
 
-### Chart 1
-![](Visual Output.png)
+### Chart 2: Daily Profit Per Country
+![Profit Per Country] (Daily Profit Per Country.png)
+
+### Chart 3: UnitsSold Per Country
+![UnitsSold Per Country] (UnitsSold Per Country.png)
+
