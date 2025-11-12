@@ -1,5 +1,5 @@
-# Sales KPI Analaysis
-Sales Analytics Using My SQL and Google sheets
+# Sales_KPI 
+
 
 ## Project Summary
 Analyzed raw sales data using My Sql to calculate key performance indicators and identify profit  across different countries.
